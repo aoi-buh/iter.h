@@ -1,0 +1,6 @@
+[submodule "lambda.h"]
+	path = lambda.h
+	url = https://github.com/aoi-buh/lambda.h.git
+[submodule "ppmp.h"]
+	path = ppmp.h
+	url = https://github.com/aoi-buh/ppmp.h.git
